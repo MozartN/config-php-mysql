@@ -1,0 +1,19 @@
+*{
+    width: 70;
+    height: 70;
+    box-sizing: border-box;
+}
+
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-image: url(https://logopng.com.br/logos/ifood-43.png);
+}
+
+form {
+    display: inline-block;
+    margin: 10px;
+}
